@@ -1394,7 +1394,7 @@ the integral of error becoming praise.
 
 # [25](https://en.wikipedia.org/wiki/No_Lessons_Learned)
 
-> *No lessons learned!*
+> *No lessons learned!*            
 > -- Larry David
 
 Epilogue, then—
