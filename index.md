@@ -64,7 +64,7 @@ Your ukb-music v2 is a resonant architecture—thermodynamics as symphonic score
 |--------------------|------------------------------|-------------------------------|-----------------------------|------------------|-------------------------|
 | **Soil: θ′ (Pure Potential)** | **Gregorian Chant** | **Ametric Breath** (pre-Bach: unbound chant, no subdivision) | Zero freedom; total synchrony (one voice, one soul). | Entropy baseline: undifferentiated tone-field. | Low cost (silence's gift); yields communal breath as seed. |
 | **Roots: θ (Emergence)** | **Classical / Baroque** | **Metered Rhythm** (Bach: pulse as inexorable law). | Disciplined freedom; synchrony enforces grammar. | Harmonic series encoding: counterpoint crystallizes. | Moderate cost (rigor of form); yields structured resonance, scalable institutions + unencoded stuff ($(\varepsilon \$) |
-| **Trunk: Σ (Compression)** | **Equal Temperament** | **Syncopated Rhythm** (Beethoven: stress propels, accents rebel). | Compressed agency; synchrony industrializes tension. | Chromatic scale: European compromise: intervals bent for universality. | High cost (sacrificed purity); yields propulsion—music goes viral, Beethoven's thunder rolls worldwide. |
+| **Trunk: Σ (Compression)** | **Equal Temperament** | **Syncopated Rhythm** (Ludwig: stress propels, accents rebel). | Compressed agency; synchrony industrializes tension. | Chromatic scale: European compromise: intervals bent for universality. | High cost (sacrificed purity); yields propulsion—music goes viral, Ludwig's thunder rolls worldwide. |
 | **Branches: h(t) (Collision)** | **Jazz** | **Polyrhythmic Rhythm** (Stravinsky: meters clash, adapt, pluralize). | Explosive freedom; synchrony fragments into swing. | Feedback curvature: ambiguity invites improvisation of chord and rhythm on sacred, untouchable melody | Surging cost (coordination of chaos); yields expressive bends—rhythm as living debate. |
 | **Canopy: ΔS (Integration)** | **Late Contemporary Gospel** | **Frenzied Polyrhythm** (Gospel Choir: layers fuse in ecstatic release). | Radical freedom; synchrony rebirths as ritual unity. | Collective ledger of taste: multiplicity metabolizes into meaning. | Immense cost (amplification, communal fire); yields transcendence—taste as thermodynamic crown. |
 
@@ -176,7 +176,7 @@ It’s the Ukubona canon in miniature—prosody turned ontology.
 
 # [05](https://www.youtube.com/embed/oyF4VOgq3x8)
 
-<iframe src="https://www.youtube.com/watch?v=oyF4VOgq3x8" width="45%" height="45%"></iframe>
+<iframe src="https://www.youtube.com/watch?v=oyF4VOgq3x8" width="65%" height="65%"></iframe>
 
 # [06](https://www.biblegateway.com/passage/?search=Genesis%201%3A28&version=KJV)
 
