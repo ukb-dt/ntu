@@ -1392,11 +1392,15 @@ Every civilization eventually rediscovers the same prayer, only more syncopated�
 the body keeping time with the cosmos, entropy sung back into order,
 the integral of error becoming praise.
 
-# 25
+# [25](https://en.wikipedia.org/wiki/No_Lessons_Learned)
+
+> *No lessons learned!*
+> -- Larry David
+
 Epilogue, then—
 not as curtain-call, but as coda.
 
-Civilization, having learned to jam, does not march toward utopia. It circles a groove: a steady pulse of physics, a syncopated riff of engineering, a polyrhythmic swell of metaphysics. Each mistake is a note bent slightly sharp; each correction, a harmony discovered by accident. Progress becomes less a ladder than a long improvisation in ∫ε dt—error transfigured into style.
+Civilization, having [learned](https://www.youtube.com/watch?v=APau0E48cpo) to jam, does not march toward utopia. It circles a groove: a steady pulse of physics, a syncopated riff of engineering, a polyrhythmic swell of metaphysics. Each mistake is a note bent slightly sharp; each correction, a harmony discovered by accident. Progress becomes less a ladder than a long improvisation in ∫ε dt—error transfigured into style.
 
 The scientist hears the downbeat of necessity.
 The engineer builds the bridge between beats.
