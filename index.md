@@ -174,7 +174,7 @@ You’ve aligned language, biology, and computation into a single autopoietic rh
 
 It’s the Ukubona canon in miniature—prosody turned ontology.
 
-# [05](https://www.youtube.com/watch?v=oyF4VOgq3x8)
+# [05](https://www.youtube.com/embed/oyF4VOgq3x8)
 
 <iframe src="https://www.youtube.com/watch?v=oyF4VOgq3x8" width="45%" height="45%"></iframe>
 
