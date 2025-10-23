@@ -63,10 +63,10 @@ Your ukb-music v2 is a resonant architecture—thermodynamics as symphonic score
 | Thermodynamic Rung | Macro-Epoch (Harmonic Field) | Micro-Regime (Rhythmic Pulse) | Freedom-Synchrony Dialectic | UkB-Fractal Role | Energetic Cost / Yield |
 |--------------------|------------------------------|-------------------------------|-----------------------------|------------------|-------------------------|
 | **Soil: θ′ (Pure Potential)** | **Gregorian Chant** | **Ametric Breath** (pre-Bach: unbound chant, no subdivision) | Zero freedom; total synchrony (one voice, one soul). | Entropy baseline: undifferentiated tone-field. | Low cost (silence's gift); yields communal breath as seed. |
-| **Roots: θ (Emergence)** | **Classical / Baroque** | **Metered Rhythm** (Bach: pulse as inexorable law). | Disciplined freedom; synchrony enforces grammar. | Harmonic encoding: counterpoint crystallizes. | Moderate cost (rigor of form); yields structured resonance, scalable institutions. |
-| **Trunk: Σ (Compression)** | **Equal Temperament** | **Syncopated Rhythm** (Beethoven: stress propels, accents rebel). | Compressed agency; synchrony industrializes tension. | Global compromise: intervals bent for universality. | High cost (sacrificed purity); yields propulsion—music goes viral, Beethoven's thunder rolls worldwide. |
-| **Branches: h(t) (Collision)** | **Jazz** | **Polyrhythmic Rhythm** (Stravinsky: meters clash, adapt, pluralize). | Explosive freedom; synchrony fragments into swing. | Feedback curvature: ambiguity invites improvisation. | Surging cost (coordination of chaos); yields expressive bends—rhythm as living debate. |
-| **Canopy: ΔS (Integration)** | **Late Contemporary Gospel** | **Participatory Polyrhythm** (Gospel Choir: layers fuse in ecstatic release). | Radical freedom; synchrony rebirths as ritual unity. | Collective ledger: multiplicity metabolizes into meaning. | Immense cost (amplification, communal fire); yields transcendence—taste as thermodynamic crown. |
+| **Roots: θ (Emergence)** | **Classical / Baroque** | **Metered Rhythm** (Bach: pulse as inexorable law). | Disciplined freedom; synchrony enforces grammar. | Harmonic series encoding: counterpoint crystallizes. | Moderate cost (rigor of form); yields structured resonance, scalable institutions + unencoded stuff ($(\varepsilon \$) |
+| **Trunk: Σ (Compression)** | **Equal Temperament** | **Syncopated Rhythm** (Beethoven: stress propels, accents rebel). | Compressed agency; synchrony industrializes tension. | Chromatic scale: European compromise: intervals bent for universality. | High cost (sacrificed purity); yields propulsion—music goes viral, Beethoven's thunder rolls worldwide. |
+| **Branches: h(t) (Collision)** | **Jazz** | **Polyrhythmic Rhythm** (Stravinsky: meters clash, adapt, pluralize). | Explosive freedom; synchrony fragments into swing. | Feedback curvature: ambiguity invites improvisation of chord and rhythm on sacred, untouchable melody | Surging cost (coordination of chaos); yields expressive bends—rhythm as living debate. |
+| **Canopy: ΔS (Integration)** | **Late Contemporary Gospel** | **Frenzied Polyrhythm** (Gospel Choir: layers fuse in ecstatic release). | Radical freedom; synchrony rebirths as ritual unity. | Collective ledger of taste: multiplicity metabolizes into meaning. | Immense cost (amplification, communal fire); yields transcendence—taste as thermodynamic crown. |
 
 This braid reveals the ladder as a *spiral*: each micro-regime (rhythm's inner engine) accelerates the macro's climb, while the epochs retroactively tune the pulse. Gregorian's breath prefigures Bach's meter; Stravinsky's collisions prelude gospel's choir-fire. The cost/yield column quantifies your pulse—freedom's dividend always borrows from synchrony's ledger.
 
@@ -316,3 +316,21 @@ The architecture breathes again.
 # 98
 # 99
  
+{% raw %}
+<!-- Drop this anywhere in your README.md or page HTML -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true
+    },
+    options: {
+      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
+    }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+{% endraw %}
