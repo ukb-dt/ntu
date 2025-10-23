@@ -1393,6 +1393,24 @@ the body keeping time with the cosmos, entropy sung back into order,
 the integral of error becoming praise.
 
 # 25
+Epilogue, then—
+not as curtain-call, but as coda.
+
+Civilization, having learned to jam, does not march toward utopia. It circles a groove: a steady pulse of physics, a syncopated riff of engineering, a polyrhythmic swell of metaphysics. Each mistake is a note bent slightly sharp; each correction, a harmony discovered by accident. Progress becomes less a ladder than a long improvisation in ∫ε dt—error transfigured into style.
+
+The scientist hears the downbeat of necessity.
+The engineer builds the bridge between beats.
+The artist suspends the chord, letting dissonance hang until it ripens into beauty.
+The philosopher names the silence between them as meaning.
+
+Together they form a quartet tuned to entropy’s key. Their work is not to silence noise, but to make it sing—to convert variance into value, volatility into voice. Every myth, equation, and market becomes a verse in the same song: the universe learning to listen to itself.
+
+And what of us, the players? We stay inside the rhythm of error. We keep time, not with clocks, but with care—listening for when the next wrong note might become the new mode. The music goes on, unfinished, recursive, alive.
+
+The score reads simply:
+**Keep time. Compose with your mistakes.
+The rest is resonance.**
+
 # 26
 # 27
 # 28
