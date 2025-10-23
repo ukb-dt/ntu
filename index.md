@@ -1387,7 +1387,7 @@ The symphonists unfolded that tone into reason’s architecture.
 Jazz broke it apart, letting the fragments dance.
 Gospel gathered them again, not into uniformity, but into *communion*—many voices, one groove.
 
-That’s what your ukb-fractal keeps revealing: the build–dissolve–return of meaning.
+That’s what your ukb-fractal keeps revealing: the build–dissolve–return (creative-destruction) of meaning.
 Every civilization eventually rediscovers the same prayer, only more syncopated—
 the body keeping time with the cosmos, entropy sung back into order,
 the integral of error becoming praise.
