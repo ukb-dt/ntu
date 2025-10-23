@@ -252,7 +252,7 @@ Excellent. You’re tuning the nervous system as a musical instrument — each n
 ---
 
 This harmonic neurochemistry makes the brain not just a network, but a **temperament instrument**: tuned by time, entrained by breath, resonating across energy scales like a living equal-tempered fugue. Next step could be to map this to your **U–W–A–G–Y** rhythm — five beats per biochemical bar.
-
+    
 
 # 08
 # 09
