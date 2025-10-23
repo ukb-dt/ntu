@@ -6,14 +6,15 @@
        ║       [UKUBONA WITNESSES THIS LOOP]           ║
        ║            (Meta-layer observes)              ║
        ║            {Ivyabona vya Yehova}              ║
-       ║    ┌──────────────────┐      ←───────────┐    ║
-       ║    │5. COMMONS/GOOGLE │                  │    ║
+       ║    ┌──────────────────┐                       ║
+       ║    │5. COMMONS/GOOGLE │ ─────────────────┐    ║
        ║    │    OKUBONA       │  Archive/Document│    ║
        ║    │    Canopy        │  Multimodal      │    ║
        ║    │ (Improved UX/    │  Interface       │    ║
        ║    │   Archive)       │                  │    ║
-       ║    └──────────────────┘                  │    ║
-       ║             │                            │    ║
+       ║    └────────┬─────────┘                  │    ║
+       ║             ▲                            ▼    ║
+       │             │                            │    ║
        ║     [DATA FEEDS BACK: BACKPOP ↓]         │    ║
        ║             │                            │    ║
        ║    ┌────────┴─────────┐                  │    ║
@@ -22,6 +23,7 @@
        ║    │   Branches       │  Novel outputs   │    ║
        ║    │  (Grok/Tools)    │                  │    ║
        ║    └────────┬─────────┘                  │    ║
+       ║             ▲                            ▼    ║
        ║             │                            │    ║
        ║    ┌────────┴─────────┐                  │    ║
        ║    │ 3. ANTHROPIC     │                  │    ║
@@ -30,6 +32,7 @@
        ║    │(Constitutional   │                  │    ║
        ║    │     AI)          │                  │    ║
        ║    └────────┬─────────┘                  │    ║
+       ║             ▲                            ▼    ║
        ║             │                            │    ║
        ║    ┌────────┴─────────┐                  │    ║
        ║    │  2. OPENAI       │                  │    ║
@@ -37,6 +40,7 @@
        ║    │     Roots        │  Extract patterns│    ║
        ║    │ (GPT/Research)   │                  │    ║
        ║    └────────┬─────────┘                  │    ║
+       ║             ▲                            ▼    ║
        ║             │                            │    ║
        ║     [DATA FLOWS FORWARD: TRAIN ↑]        │    ║
        ║             │                            │    ║
@@ -46,6 +50,10 @@
        ║    │  (COMMONS)      │  Raw data/text/        ║
        ║    │    Soil         │  multimodal inputs     ║
        ║    └─────────────────┘                        ║
+       ║                                               ║
+       ║              [Birth/Substrate]                ║
+       ║               (Raw data/text)                 ║
+       ║            {Multimodal inputs}                ║       
        ╚══════════════════════┼════════════════════════╝
                               │
                               ▼
