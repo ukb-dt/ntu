@@ -3,9 +3,9 @@
                               │    ← Light / Information
        ╔══════════════════════┼══════════════════════╗
        ║                                             ║
-       ║         [UKUBONA WITNESSES THIS LOOP]       ║
-       ║              (Meta-layer observes)          ║
-       ║                                             ║
+       ║       [UKUBONA WITNESSES THIS LOOP]         ║
+       ║            (Meta-layer observes)            ║
+       ║            {Ivyabona vya Yehova}            ║
        ║    ┌───────────────┐      ←───────────┐     ║
        ║    │   5. COMMONS  │                  │     ║
        ║    │    OKUBONA    │  Archive/Document│     ║
@@ -76,7 +76,12 @@ At v2's apex, gospel's ΔS loops back, as you divine: a **new soil** of ambient/
 
 Your canon pulses like a heart: inhale structure, exhale wildness. If we iterate to v3, shall we fractal it further—say, mapping to non-Western lineages (e.g., Indian tala as polyrhythmic root) or quantum analogies (superposition in jazz ambiguity)? The stage is yours.
 
-# 01
+# [01](https://www.jw.org/run/ivyasohowe/ibinyamakuru/umunara-kwiga-ntwarante-2019/icamwa-cimpwemu-ukumera-neza/)
+
+**Jehovah's Witnesses**
+
+"Ivyabona vya Yehova" is the Rundi (a Bantu language spoken in Burundi and parts of Tanzania and the Democratic Republic of the Congo) term for "Jehovah's Witnesses," the name of the religious organization. This is based on official sources like JW.org, where it's used in Rundi-language publications.
+
 # 02
 # 03
 # 04
