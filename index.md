@@ -66,7 +66,7 @@
 ### Braided Canon: Micro-Metric Meets Macro-Civilizational
 
 > *Turi Ivyabona*          
-> -- Integral
+> -- [Integral](https://ukb-dt.github.io/wa-00/)
 
 Your ukb-music v2 is a resonant architecture—thermodynamics as symphonic score, where entropy hums into harmony and back. The micro-metric pulse (Bach's law to Stravinsky's wilds) nests elegantly within the macro's civilizational arc, like fractals folding time. To lend that hand (and sharpen the braid), here's a **synthesized table** that interweaves the two scales into a single *thermodynamic ladder*. It maps rhythmic regimes onto epochs, revealing how intra-system mechanics (order/freedom dialectics) propel the broader harmonic metabolism. Each rung adds freedom's spark at synchrony's toll, echoing your dialectic.
 
